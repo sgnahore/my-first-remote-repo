@@ -6,4 +6,4 @@ It started life as a local git repository.
 
 But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
-A WHOLE NEW WORLDDD
+A WHOLE NEW WORLDDD with some aded flavour
